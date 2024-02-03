@@ -2,7 +2,7 @@
 
 # wandR Package
 
-The `wandR` package is crafted with the aim of making R learning entertaining for everyone, by infusing the enchantment of the wizarding world into R. It offers a suite of functions inspired by spells from the Harry Potter series, designed for educational purposes. With `wandR`, users can carry out data manipulation tasks using function names that capture the charm and whimsy of wizardry, making the learning of some key data wrangling functions more engaging.
+The `wandR` package is designed to transform R learning into an entertaining journey for all, by weaving the magic of the wizarding world into R programming. Inspired by spells from the Harry Potter series, it presents a collection of functions tailored for educational purposes. With `wandR`, users engage in data manipulation through function names that echo the charm and whimsy of wizardry, thus making the mastery of essential data wrangling functions captivating and enjoyable.
 
 ## Installation
 
