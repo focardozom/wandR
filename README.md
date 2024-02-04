@@ -1,7 +1,7 @@
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/focardozom/wandR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/focardozom/wandR/actions/workflows/R-CMD-check.yaml)
 [![Codecov test coverage](https://codecov.io/gh/focardozom/wandR/branch/main/graph/badge.svg)](https://app.codecov.io/gh/focardozom/wandR?branch=main)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 <!-- badges: end -->
 
 # wandR Package
