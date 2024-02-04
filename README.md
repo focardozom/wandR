@@ -1,4 +1,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/focardozom/wandR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/focardozom/wandR/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
 
 # wandR Package
 
