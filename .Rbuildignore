@@ -1,3 +1,10 @@
 ^wandR\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^\\.github$
+^CONTRIBUTING.md$
+^CODE_OF_CONDUCT.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$

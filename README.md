@@ -23,7 +23,7 @@ devtools::install_github("focardozom/wandR")
 
 * `engorgio(data, names_from, values_from, ...):` Spreads key-value pairs across multiple columns to widen data.
 
-* `propheto(.data, ...):` Generates summary statistics.
+* `daily_prophet(.data, ...):` Generates summary statistics.
 
 * `avada_kedavra(...):` Irreversibly removes objects from the environment, use with caution.
 

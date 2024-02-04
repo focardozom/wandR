@@ -8,6 +8,7 @@
 
 # User-specific files
 .Ruserdata
+wandR.Rproj
 
 # Example code in package build process
 *-Ex.R
@@ -47,3 +48,5 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.Rproj.user
+docs
