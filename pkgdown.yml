@@ -1,9 +1,8 @@
-pandoc: 2.19.2
-pkgdown: 2.0.7
+pandoc: 3.1.11
+pkgdown: 2.1.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-02-04T18:56Z
+last_built: 2025-04-01T18:14Z
 urls:
   reference: https://focardozom.github.io/wandR/reference
   article: https://focardozom.github.io/wandR/articles
-
