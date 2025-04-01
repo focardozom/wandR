@@ -1,4 +1,5 @@
 url: https://focardozom.github.io/wandR/
 template:
+  logo: "man/figures/logo.png"
   bootstrap: 5
 
